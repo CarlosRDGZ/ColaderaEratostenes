@@ -1,0 +1,10 @@
+/home/indiana/Documents/cs/eratosthenes/obj/Debug/netcoreapp2.0/eratosthenes.csproj.CoreCompileInputs.cache
+/home/indiana/Documents/cs/eratosthenes/obj/Debug/netcoreapp2.0/eratosthenes.AssemblyInfoInputs.cache
+/home/indiana/Documents/cs/eratosthenes/obj/Debug/netcoreapp2.0/eratosthenes.AssemblyInfo.cs
+/home/indiana/Documents/cs/eratosthenes/bin/Debug/netcoreapp2.0/eratosthenes.deps.json
+/home/indiana/Documents/cs/eratosthenes/bin/Debug/netcoreapp2.0/eratosthenes.runtimeconfig.json
+/home/indiana/Documents/cs/eratosthenes/bin/Debug/netcoreapp2.0/eratosthenes.runtimeconfig.dev.json
+/home/indiana/Documents/cs/eratosthenes/bin/Debug/netcoreapp2.0/eratosthenes.dll
+/home/indiana/Documents/cs/eratosthenes/bin/Debug/netcoreapp2.0/eratosthenes.pdb
+/home/indiana/Documents/cs/eratosthenes/obj/Debug/netcoreapp2.0/eratosthenes.dll
+/home/indiana/Documents/cs/eratosthenes/obj/Debug/netcoreapp2.0/eratosthenes.pdb

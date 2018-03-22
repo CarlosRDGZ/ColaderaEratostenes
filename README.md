@@ -1,0 +1,2 @@
+# Trabajo con Vectores - Coladera de Eratostenes
+Resolver el siguiente problema para encontrar los numeros primos menores a 1000 usando el metodo de la coladera de eratostenes, crear una clase y un metodo estatico o una clase que se pueda instanciar y entonces obtener los valores pasando como parametro el numero (1000), devolver un string con la secuencia de numeros separada por comas.
