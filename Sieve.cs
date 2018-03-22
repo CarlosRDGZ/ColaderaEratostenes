@@ -7,7 +7,7 @@ namespace Eratosthenes
 
         public static string FindPrimes(int limitNumber)
         {
-            string num = "";
+            string num = "1, ";
             int endl = 1;
             limit = limitNumber;
             numbers = new bool[limit];
